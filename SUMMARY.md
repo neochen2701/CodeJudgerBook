@@ -9,5 +9,5 @@
   * [3.3. 作答方式](part3/3-3myclass.md)
   * [3.4. 考　　試](part3/3-4myclass.md)
   * [3.5. 考試成績](part3/3-5myclass.md)
-* [4. 購買方案](part4/chapter4.md)
+* [4. 購買方案](part5/chapter5.md)
 

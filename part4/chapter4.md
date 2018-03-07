@@ -9,7 +9,7 @@
 **汪怡伶 專案經理**
 電話：(02)2577-8806 分機746
 手機：0937450240
-email：[mailto:irene@mail.csf.org.tw](/irene@mail.csf.org.tw)
+email：[irene@mail.csf.org.tw](mailto:irene@mail.csf.org.tw)
 
 
 ---

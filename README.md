@@ -30,6 +30,8 @@
 
 <img src="https://i.imgur.com/Sh1d4RZ.png" title="CSF LOGO" alt="CSF LOGO" width="100" height="100" />
 
-* 聯絡人：何宥寬 (02)2577-8806 *735/ 0927168751
-* 客服EMAIL：code_judger@mail.csf.org.tw
+* 聯絡人：何宥寬 
+* 電話：(02)2577-8806 *735
+* 手機：0927168751
+* 客服EMAIL：[code_judger@mail.csf.org.tw](mailto:code_judger@mail.csf.org.tw)
 

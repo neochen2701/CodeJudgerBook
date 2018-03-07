@@ -14,7 +14,7 @@ email：[irene@mail.csf.org.tw](mailto:irene@mail.csf.org.tw)
 #### 購買聯絡窗口：何宥寬 先生 ####
 電話：(02)2577-8806 *735
 手機：0927168751
-客服EMAIL：[code_judger@mail.csf.org.tw](mailto:code_judger@mail.csf.org.tw?subject=<我想採購Code Judger>)
+客服EMAIL：[code_judger@mail.csf.org.tw](mailto:code_judger@mail.csf.org.tw?subject=我想採購Code Judger)
 
 
 ---

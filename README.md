@@ -1,4 +1,4 @@
-# 前言
+# Code Judger平台介紹 #
 
 [Code Judger](http://www.codejudger.com) 是由 [Kyosei.ai](https://kyosei.ai/) 共生智能股份有限公司所開發之自動化批改及教學管理系統，由[財團法人電腦技能基金會](https://www.csf.org.tw/main/index.asp)代理銷售。
 

@@ -2,8 +2,6 @@
 
 [Code Judger](http://www.codejudger.com)會以數量不定的測試資料驗證您所提交的程式碼，以判斷您的程式是否完全正確符合題目的要求，若通過所有的測試資料的驗證，則[Code Judger](http://www.codejudger.com)會認定您的程式碼為【答案正確】，否則將會呈現不同原因的結果，如【答案錯誤】、【運行時發生錯誤】。
 
-> 在[Code Judger](http://www.codejudger.com)中的[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)，皆會公佈至少1組測試資料於題目中，也同時會有1組隱藏測試資料。
-
 【答案正確】：代表您的程式有跑出結果，也符合測試資料的驗證。
 【答案錯誤】：代表您的程式有跑出結果，但沒有通過測試資料的驗證。
 【運行時發生錯誤】：代表您的程式沒有跑出結果。

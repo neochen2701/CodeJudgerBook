@@ -5,11 +5,11 @@
 [Code Judger](http://www.codejudger.com) 平台可以讓學生們在解題中學習，獲得成就，整合題庫與課程概念，為學習程式的學員、解題挑戰者以及程式教師提供最佳化的課程與題目管理。
 
 
-### 適用對象 ###
+### Code Judger適用對象 ###
 程式語言初學者
 
-### 培養能力 ###
-透過文字模式的程式語言，以及[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)特別設計的題型，讓學習者在解題的過中，培養「抽象的邏輯思考與數學概念」。學成後，可獲得：
+### Code Judger培養能力 ###
+透過Code Judger即練即評的設計，以及[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)特別設計的題型，讓學習者以文字模式程式語言解題的過中，培養「抽象的邏輯思考與數學概念」。學成後，可獲得：
 1. 【程式力】培養學習者具備程式設計的認知以及解決問題的能力。
 2. 【實作力】學習者可實際演練操作程式設計的編輯與執行環境，熟悉程式設計的開發流程，建立實作的能力。
 3. 【證照力】具備 [TQC+程式語言Python3 認證](http://www.tqcplus.org.tw/content_brochure_PPY.asp)之能力。

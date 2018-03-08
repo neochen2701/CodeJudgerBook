@@ -2,6 +2,10 @@
 
 * [Code Judger平台介紹](README.md)
 * [1. Code Judger特色](part1/chapter1.md)
+  * [1.1. TQC+認證題庫](part1/features-1-1.md)
+  * [4.2. 答題方式與技巧](part1/features-1-2.md)
+  * [4.3. 作答方式](part1/features-1-3.md)
+  * [4.4. 考　　試](part1/features-1-4.md)
 * [2. 【教師】主控台](part2/chapter2.md)
 * [3. 【教師】課程功能](part3/chapter3.md)
 * [4. 【學生】帳號功能](part4/chapter4.md)

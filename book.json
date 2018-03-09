@@ -5,14 +5,14 @@
     "plugins": [
         "disqus",
         "emphasize@^1.1.0",
-        "sitemap"
+        "sitemap-general@^0.1.1"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "webpack-handbook"
         },
-        "sitemap": {
-            "hostname": "http://zhaoda.net/"
+        "sitemap-general": {
+            "prefix": "http://gitbook.zhangjikai.com"
         }
     }
 }

@@ -4,6 +4,7 @@
     "language": "tw",
     "plugins": [
         "disqus",
+        "emphasize@^1.1.0",
         "sitemap"
     ],
     "pluginsConfig": {

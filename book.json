@@ -9,7 +9,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "webpack-handbook"
+            "shortName": "csftqc"
         },
         "sitemap-general": {
             "prefix": "http://www.csf.org.tw"

@@ -18,7 +18,7 @@
   * [3.2 練習題組](part3/class-3-2.md)
   * [3.3 考試總管](part3/class-3-3.md)
   * [3.4 統計資訊](part3/class-3-4.md)
-* [4 【學生】帳號功能](part4/chapter4.md)
+* [4 【學生】我的課程](part4/chapter4.md)
   * [4.1 我的課程](part4/4-1myclass.md)
   * [4.2 練習題目](part4/4-2myclass.md)
   * [4.3 作答方式](part4/4-3myclass.md)

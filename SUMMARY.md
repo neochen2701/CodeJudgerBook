@@ -21,8 +21,8 @@
 * [4 【學生】我的課程](part4/chapter4.md)
   * [4.1 課程資訊](part4/4-1myclass.md)
   * [4.2 練習題目](part4/4-2myclass.md)
-    * [4.2.1 作答方式](part4/4-3myclass.md)
-  * [4.3 考　　試](part4/4-4myclass.md)
-    * [4.3.1 考試成績](part4/4-5myclass.md)
+    * [4.2.1 作答方式](part4/4-2-1myclass.md)
+  * [4.3 考　　試](part4/4-3myclass.md)
+    * [4.3.1 考試成績](part4/4-3-1myclass.md)
 * [5 購買方案](part5/chapter5.md)
 

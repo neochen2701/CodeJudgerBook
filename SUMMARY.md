@@ -13,7 +13,7 @@
     * [2.1.2 編輯題組](part2/Console-2-2-2.md)
   * [2.3 試卷管理](part2/Console-2-3.md)
   * [2.4 課程管理](part2/Console-2-4.md)
-* [3 【教師】課程功能](part3/chapter3.md)
+* [3 【教師】我的課程](part3/chapter3.md)
   * [3.1 課程資訊](part3/class-3-1.md)
   * [3.2 練習題組](part3/class-3-2.md)
   * [3.3 考試總管](part3/class-3-3.md)

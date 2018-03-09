@@ -16,6 +16,8 @@
 * [3 【教師】我的課程](part3/chapter3.md)
   * [3.1 課程資訊](part3/class-3-1.md)
   * [3.2 練習題組](part3/class-3-2.md)
+    * [3.2.1 新增/編輯 練習題組](part3/class-3-2-1.md)
+    * [3.2.2 練習統計](part3/class-3-2-2.md)
   * [3.3 考試總管](part3/class-3-3.md)
   * [3.4 統計資訊](part3/class-3-4.md)
 * [4 【學生】我的課程](part4/chapter4.md)

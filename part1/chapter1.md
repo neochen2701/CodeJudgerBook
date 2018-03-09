@@ -1,5 +1,4 @@
-## [Code Judger](http://www.codejudger.com/) 特色 ##
-
+# [Code Judger](http://www.codejudger.com/) 特色 #
 
 | 重點特色            | 說　　明                   |
 | -----------------  | ------------------------- |

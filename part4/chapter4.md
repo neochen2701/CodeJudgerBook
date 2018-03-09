@@ -1,4 +1,4 @@
-## 學生帳號功能 ##
+# 學生帳號功能 #
 
 以學生帳號登入[Code Judger](http://www.codejudger.com)，可使用的功能介紹。
 

@@ -1,4 +1,4 @@
-## 教師課程功能 ##
+# 教師課程功能 #
 
 以教師帳號登入[Code Judger](http://www.codejudger.com)，課程的功能介紹。
 

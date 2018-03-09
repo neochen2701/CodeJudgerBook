@@ -1,4 +1,4 @@
-## 教師 主控台 ##
+# 教師 主控台 #
 
 以教師帳號登入[Code Judger](http://www.codejudger.com)，主控台的功能介紹。
 

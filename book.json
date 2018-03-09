@@ -1,0 +1,18 @@
+// book.json
+{
+    "title": "Code Judger 使用說明",
+    "description": "Code Judger 平台可以讓學生們在解題中學習，獲得成就，整合題庫與課程概念，為學習程式的學員、解題挑戰者以及程式教師提供最佳化的課程與題目管理。",
+    "language": "tw",
+    "plugins": [
+        "disqus",
+        "sitemap"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "webpack-handbook"
+        },
+        "sitemap": {
+            "hostname": "http://zhaoda.net/"
+        }
+    }
+}

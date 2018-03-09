@@ -2,7 +2,7 @@
 
 登入Code Judger後，會進入「我的課程」頁面，請選擇要進入的課程。
 
-![](/assets/cjmds01我的課程-00.png)
+![](/assets/cjmds01myclass-00.png)
 
 ---
 
@@ -14,4 +14,4 @@
 * 練習題組：課程練習的題組題目。
 * 考試：課程的考試。
 
-![](/assets/cjmds01我的課程-01-課程資訊.png)
+![](/assets/cjmds01myclass-01-info.png)

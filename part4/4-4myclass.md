@@ -5,7 +5,7 @@
 * 考試進行中：正在進行中的考試。
 * 考試已結束：已經結束的考試。
 
-![](/assets/cjmds01我的課程-03-考試-01.png)
+![](/assets/cjmds01myclass-02-exam-01.png)
 
  --- 
 
@@ -14,7 +14,7 @@
 代表考試尚未開始．
 點選［開始測驗］鈕會出現以下頁面，告知考試的相關資訊。
  
- ![](/assets/cjmds01我的課程-03-考試-02.png)
+ ![](/assets/cjmds01myclass-02-exam-02.png)
  
  ---
  
@@ -23,7 +23,7 @@
 代表考試已開始。
 點選［開始測驗］鈕進行考試
 
- ![](/assets/cjmds01我的課程-03-考試-03.png)
+ ![](/assets/cjmds01myclass-02-exam-03.png)
 
 ### 考試介面 ### 
 
@@ -31,7 +31,7 @@
 點選［檢視題目］即可進入該題目作答。
 在畫面的右下角，會顯示考試的剩餘時間。
  
- ![](/assets/cjmds01我的課程-03-考試-04.png)
+ ![](/assets/cjmds01myclass-02-exam-04.png)
 
 ### 考試答題 ### 
 
@@ -39,7 +39,7 @@
 * 透過［匯入程式碼］按鈕，上傳電腦中的程式碼檔案
 * 直接在此區域鍵入程式碼
 
-![](/assets/cjmds01我的課程-03-考試-05.png)
+![](/assets/cjmds01myclass-02-exam-05.png)
 
  ---
   
@@ -48,4 +48,4 @@
 代表已經結束的考試。
 無法再進入考試作答，僅能查看成績。
 
-![](/assets/cjmds01我的課程-03-考試成績單-01.png) 
+![](/assets/cjmds01myclass-03-reportcard -01.png) 

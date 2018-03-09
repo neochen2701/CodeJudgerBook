@@ -6,7 +6,7 @@
 
 點選［開始練習］按鈕，即可進行該題組。
 
-![](/assets/cjmds01我的課程-02-練習題組-01.png)
+![](/assets/cjmds01myclass-02-exercises-01.png)
 
 ---
 
@@ -23,7 +23,7 @@
  TQC+的題目名稱格式為[TQC+][程式語言名稱][題號][名稱]組合成。
 例：TQC+ Python 102. 浮點數格式化輸出
 
-![](/assets/cjmds01我的課程-02-練習題組-02.png)
+![](/assets/cjmds01myclass-02-exercises-02.png)
 
 ---
 
@@ -44,7 +44,7 @@
 | 4.評分項目 | 此題的配分                |
 
 
-![](/assets/cjmds01我的課程-02-練習題組-03.png)
+![](/assets/cjmds01myclass-02-exercises-03.png)
 
 ---
 

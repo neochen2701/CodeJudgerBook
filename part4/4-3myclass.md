@@ -10,7 +10,7 @@
 * 透過［匯入程式碼］按鈕，上傳電腦中的程式碼檔案
 * 直接在此區域鍵入程式碼
 
-![](/assets/cjmds01我的課程-02-練習題組-04.png)
+![](/assets/cjmds01myclass-02-exercises-04.png)
 
 
 

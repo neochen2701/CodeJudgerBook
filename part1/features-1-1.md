@@ -2,6 +2,9 @@
 
 [Code Judger](http://www.codejudger.com)內建[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)。將陸續增加其它TQC+認證題庫，如程式語言C, 物件導向程式設計Java等。
 
+<img src="https://i.imgur.com/aC9qKbf.png" title="TQC+ LOGO" alt="TQC+ LOGO" />
+
+
 ### TQC+ 程式語言Python 3 認證 技能規範 ###
 
 |類 別|類 別 名 稱|技　　　能　　　內　　　容|

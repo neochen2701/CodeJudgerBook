@@ -113,8 +113,7 @@ graph LR
 </div>
 ```
 
-![](https://i.imgur.com/3jjeLxF.png)
-
+即可顯示：
 ```mermaid
 graph TD
 A[第一步] --> |這是一個標籤|B[第二步]
@@ -137,6 +136,7 @@ C --> D[第四步]
       B --> E[第三步選項3]
 </div>
 ```
+
 即可顯示：
 ```mermaid
 graph TD

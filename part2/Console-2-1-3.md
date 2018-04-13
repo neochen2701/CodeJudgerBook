@@ -10,6 +10,7 @@
 
 </div>
 ```
+
 ```mermaid
 graph TD;
  A-->B;
@@ -17,16 +18,8 @@ graph TD;
  B-->D;
  C-->D;
 ```
-{% mermaid %}
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-{% endmermaid %}
 
-
-## 二、寫入流程圖 ##
+## 二、編寫流程圖 ##
 
 在標籤中加入下列內容
 
@@ -40,6 +33,12 @@ graph LR
 ```
 
 即可顯示：
+```mermaid
+graph LR
+      A[第一步] --- B[第二步]
+      B --- C[第三步]
+      C --- D[第四步]
+```
 ![](https://i.imgur.com/8wBbBqd.png)
 
 若需調整流程圖顯示方向至**又上至下**，則將```graph LR```更改為```graph TD```

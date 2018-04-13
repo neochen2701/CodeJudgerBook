@@ -80,7 +80,30 @@ graph LR
 ```
 
 
-### 4.路徑標籤如需在流程圖中加入標籤可使用```|標籤名稱|```：
+### 3.路徑 ###
+
+如需在流程圖中加入標籤可使用```|標籤名稱|```：
+
+```
+<div class="mermaid">
+    graph LR
+      A --> B
+      B -.-> C
+      C ==> D
+</div>
+```
+
+```mermaid
+graph LR
+    A-->B
+    A-.->B;
+    A ==> B
+```
+
+
+### 4.路徑標籤 ###
+
+如需在流程圖中加入標籤可使用```|標籤名稱|```：
 
 ```
 <div class="mermaid">
@@ -92,8 +115,6 @@ graph LR
 ```
 
 ![](https://i.imgur.com/3jjeLxF.png)
-
-
 
 
 

@@ -14,7 +14,7 @@
 5. 請提交程式碼檔案，而非執行檔或執行的結果。
 
 
-### 答題注意事項—[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp) ###
+### 答題注意事項—[TQC+ 程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp) ###
 
 1. 每一題至少有1組評分測試資料顯示題目中，且至少有1組隱藏的評分測試資料。
 2. 題目需要進行檔案讀寫時，在本機撰寫程式碼自行測試時，則請依您電腦中python的啟動位置，撰寫程式所開啟或寫入檔案的路徑。在提交評分時，程式所開啟或寫入的檔案，必須與程式碼檔在同一層，例：

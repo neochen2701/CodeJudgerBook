@@ -7,6 +7,7 @@
         "emphasize@^1.1.0",
         "sitemap-general@^0.1.1",
         "mermaid"
+        "mermaid-gb3"
     ],
     "pluginsConfig": {
         "disqus": {

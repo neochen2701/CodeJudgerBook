@@ -60,7 +60,7 @@ graph TD
 
 ```
 <div class="mermaid">
-graph LR
+graph TD
     A[方形]
     B(圓邊)
     c{菱形}
@@ -69,7 +69,7 @@ graph LR
 
 即可顯示：
 ```mermaid
-graph LR
+graph TD
     A[方形]
     B(圓邊)
     c{菱形}

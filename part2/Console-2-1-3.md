@@ -116,6 +116,14 @@ graph LR
 
 ![](https://i.imgur.com/3jjeLxF.png)
 
+```mermaid
+graph TD
+A[第一步] --- |這是一個標籤|B[第二步]
+B --- C[第三步]
+C --- D[第四步]
+```
+
+
 
 
 

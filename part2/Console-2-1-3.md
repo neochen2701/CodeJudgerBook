@@ -10,7 +10,20 @@
 
 </div>
 ```
-
+```mermaid
+graph TD;
+ A-->B;
+ A-->C;
+ B-->D;
+ C-->D;
+```
+{% mermaid %}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+{% endmermaid %}
 
 
 ## 二、寫入流程圖 ##

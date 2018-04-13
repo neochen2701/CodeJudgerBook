@@ -4,6 +4,9 @@
 * [1 Code Judger特色](part1/chapter1.md)
   * [1.1 TQC+認證題庫](part1/features-1-1.md)
   * [1.2 答題方式與技巧](part1/features-1-2.md)
+
+----
+
 * [2 【教師】主控台](part2/chapter2.md)
   * [2.1 題目管理](part2/Console-2-1.md)
     * [2.1.1 建立新題目](part2/Console-2-1-1.md)
@@ -14,6 +17,9 @@
     * [2.1.2 編輯題組](part2/Console-2-2-2.md)
   * [2.3 試卷管理](part2/Console-2-3.md)
   * [2.4 課程管理](part2/Console-2-4.md)
+
+----
+
 * [3 【教師】我的課程](part3/chapter3.md)
   * [3.1 課程資訊](part3/class-3-1.md)
   * [3.2 練習題組](part3/class-3-2.md)
@@ -24,13 +30,22 @@
     * [3.3.2 開始考試](part3/class-3-3-2.md)
     * [3.3.3 考試成績單](part3/class-3-3-3.md)
   * [3.4 統計資訊](part3/class-3-4.md)
+
+----
+
 * [4 【學生】我的課程](part4/chapter4.md)
   * [4.1 課程資訊](part4/4-1myclass.md)
   * [4.2 練習題目](part4/4-2myclass.md)
     * [4.2.1 作答方式](part4/4-2-1myclass.md)
   * [4.3 考　　試](part4/4-3myclass.md)
     * [4.3.1 考試成績](part4/4-3-1myclass.md)
+
+----
+
 * [5 購買方案](part5/chapter5.md)
+
+----
+
 * [6 版本更新記錄](part6/README.md)
   * [20180313](part6/v20180313.md)
   * [20180402](part6/v20180402.md)

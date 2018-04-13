@@ -95,9 +95,9 @@ graph LR
 
 ```mermaid
 graph LR
-    A-->B
+    A-->B;
     A-.->B;
-    A ==> B
+    A ==> B;
 ```
 
 

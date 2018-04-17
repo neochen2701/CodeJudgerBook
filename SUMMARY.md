@@ -30,13 +30,7 @@
     * [4.2.1 作答方式](part4/4-2-1myclass.md)
   * [4.3 考　　試](part4/4-3myclass.md)
     * [4.3.1 考試成績](part4/4-3-1myclass.md)
-
-----
-
 * [5 購買方案](part5/chapter5.md)
-
-----
-
 * [6 版本更新記錄](part6/README.md)
   * [20180313](part6/v20180313.md)
   * [20180402](part6/v20180402.md)

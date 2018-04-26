@@ -2,9 +2,9 @@
 
 以學生帳號登入[Code Judger](http://www.codejudger.com)，可使用的功能介紹。
 
-* [4.1 我的課程](https://neochen2701.gitbooks.io/codejudger/content/part4/4-1myclass.html)
-* [4.2 練習題目](https://neochen2701.gitbooks.io/codejudger/content/part4/4-2myclass.html)
-* [4.3 考　　試](https://neochen2701.gitbooks.io/codejudger/content/part4/4-3myclass.html)
+* [4.1 我的課程](../part4/4-1myclass.md)
+* [4.2 練習題目](../part4/4-2myclass.md)
+* [4.3 考　　試](../part4/4-3myclass.md)
 
 ---
 

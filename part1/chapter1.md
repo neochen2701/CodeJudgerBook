@@ -1,6 +1,6 @@
 # [Code Judger](http://www.codejudger.com/) 特色 #
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/63BM3OEPlQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/63BM3OEPlQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 | 重點特色            | 說　　明                   |

@@ -7,11 +7,6 @@
 
 
 ---
-### Code Judger重點功能介紹影片 ###
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/63BM3OEPlQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
 
 
 

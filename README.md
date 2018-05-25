@@ -4,7 +4,7 @@
 
 [Code Judger](http://www.codejudger.com) 平台可以讓學生們在解題中學習，獲得成就，整合題庫與課程概念，為學習程式的學員、解題挑戰者以及程式教師提供最佳化的課程與題目管理。
 
-
+[影片介紹](https://youtu.be/63BM3OEPlQQ) 
 
 ---
 

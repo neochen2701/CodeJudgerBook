@@ -9,8 +9,7 @@
         "mermaid",
         "mermaid-gb3",
         "expandable-chapters-small",
-        "theme-comscore",
-        "youtube"
+        "theme-comscore"
     ],
     "pluginsConfig": {
         "disqus": {

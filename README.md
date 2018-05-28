@@ -7,8 +7,7 @@
 [影片介紹](https://youtu.be/63BM3OEPlQQ) 
 
 ---
-
-
+{% youtube src="https://youtu.be/63BM3OEPlQQ" %}{% endyoutube %}
 
 ### Code Judger適用對象 ###
 程式語言初學者

@@ -5,8 +5,7 @@
     "plugins": [
         "disqus",
         "emphasize@^1.1.0",
-        "sitemap-general@^0.1.1",
-        "expandable-chapters"
+        "sitemap-general@^0.1.1"
     ],
     "pluginsConfig": {
         "disqus": {

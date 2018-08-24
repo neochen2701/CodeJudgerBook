@@ -41,5 +41,14 @@
     * [0.2 Python IDE 介紹](Learning-Python 1/00-2.md)
     * [0.3 Spyder 小試身手](Learning-Python 1/00-3.md)
     * [0.4 Python語法初探](Learning-Python 1/00-4.md)
+  * [1 變數與輸出入](Learning-Python 1/00-1.md)
+  * [2 Python初探](Learning-Python 1/00-2.md)
+  * [3 Python初探](Learning-Python 1/00-3.md)
+  * [4 Python初探](Learning-Python 1/00-4.md)
+  * [5 Python初探](Learning-Python 1/00-5.md)
+  * [6 Python初探](Learning-Python 1/00-6.md)
+  * [7 Python初探](Learning-Python 1/00-7.md)
+  * [8 Python初探](Learning-Python 1/00-8.md)
+  * [9 Python初探](Learning-Python 1/00-9.md)
 
 

@@ -1,0 +1,54 @@
+<center>
+<img src="https://i.imgur.com/eIbqViB.png" title="Python初探" alt="Python初探"/>
+</center>
+
+---
+
+<center>
+<img src="https://i.imgur.com/WnKRmBo.png" title="CSF LOGO" alt="CSF LOGO" width="300" />
+
+<font size=4>
+
+[Guido van Rossum](http://www.codejudger.com "創辦人") 
+
+</font>
+
+</center>
+
+---
+
+### Python Zen ###
+
+Python的設計哲學是「優雅」、「明確」、「簡單」，Python官網所列出的準則中，足以代表 Python開發哲學的是：
+
+
+* <font color=0070c0>"應該有<font  color=f2635f>一種</font>(最好是只有一種)<font color=f2635f>明顯的方法</font>來做一件事"</font>
+---
+
+### Python Features (I) ###
+
+* 簡單：
+
+  <font color=0070c0>Python 是一種代表簡單主義思想的語言，語法簡單容易上手</font>
+
+* 免費、開源
+* 跨平台
+* 豐富的套件：
+
+  <font color=0070c0>PyPI - the Python Package Index</font>
+
+---
+
+### Python Features (II) ###
+
+* 可擴展性：
+
+  <font color=0070c0>若希望關鍵程式碼運行得更快或者某些演算法不公開，可以把部分程式用 C/C++ 編寫，然後在 Python 程式中使用。</font>
+
+* 可嵌入性：
+
+  <font color=0070c0>可以把 Python 嵌入 C/C++ 程式</font>
+
+---
+
+

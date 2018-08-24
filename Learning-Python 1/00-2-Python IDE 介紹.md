@@ -1,0 +1,39 @@
+# Python IDE 介紹 #
+
+---
+
+### Anaconda ###
+
+* <font color=0070c0>Spyder</font>
+
+    圖形化編輯器
+
+
+* <font color=0070c0>Jupyter Notebook</font>
+
+    線上編輯器
+
+---
+
+### Anaconda-Spyder ###
+
+<center>
+<img src="https://i.imgur.com/lm0y2Lg.png" title="Anaconda-Spyder" alt="Anaconda-Spyder" width=700"/>
+</center>
+
+
+---
+
+### Anaconda Features ###
+
+* 開源、免費以及跨平台
+* 內含 Spyder IDE 與 Jupyter notebook 環境
+* 支援 Python 2.x, 3.x 與 R 語言
+* 額外的加速、優化要收費，但學術用途可以申請免費
+
+* 預設包含了眾多流行的科學、數學、工程、數據分析套件
+
+    [Anaconda package list](https://docs.continuum.io/anaconda/pkg-docs)
+
+---
+

@@ -1,0 +1,30 @@
+# Spyder 小試身手 #
+
+---
+
+### 暖身 ###
+
+<center>
+<img src="https://i.imgur.com/vg6rgnK.png" title="" alt="" width="650"/>
+</center>
+
+---
+
+### 如何執行 ###
+
+<center>
+<img src="https://i.imgur.com/632rXJo.png" title="" alt=""  width="650"/>
+</center>
+
+---
+
+### 錯誤提醒 ###
+
+<center>
+<img src="https://i.imgur.com/RCJQWhf.png" title="" alt=""  width="650"/>
+</center>
+
+---
+
+
+

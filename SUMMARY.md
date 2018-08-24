@@ -35,7 +35,11 @@
   * [20180426](part6/v20180426.md)
   * [20180402](part6/v20180402.md)
   * [20180313](part6/v20180313.md)
-
-
+* [Python教學](Learning-Python 1/00-0-Python初探.md)
+  * [0 Python初探](Learning-Python 1/00-0-Python初探.md)
+    * [0.1 Python學習資源](Learning-Python 1/00-1-Python學習資源.md)
+    * [0.2 Python IDE 介紹](Learning-Python 1/00-2-Python IDE 介紹.md)
+    * [0.3 Spyder 小試身手](Learning-Python 1/00-3-Spyder 小試身手.md)
+    * [0.4 Python語法初探](Learning-Python 1/00-4-Python語法初探.md)
 
 

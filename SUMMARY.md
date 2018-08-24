@@ -43,7 +43,7 @@
     * [0.4 Python語法初探](Learning-Python-1/00-4.md)
   * [1 變數與輸出入](Learning-Python-1/01.md)
   * [2 運算式、判斷式](Learning-Python-1/02.md)
-  * [3 Python初探](Learning-Python-1/03.md)
+  * [3 迴圈](Learning-Python-1/03.md)
   * [4 Python初探](Learning-Python-1/04.md)
   * [5 Python初探](Learning-Python-1/05.md)
   * [6 Python初探](Learning-Python-1/06.md)

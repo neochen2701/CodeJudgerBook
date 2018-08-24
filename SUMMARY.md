@@ -35,7 +35,7 @@
   * [20180426](part6/v20180426.md)
   * [20180402](part6/v20180402.md)
   * [20180313](part6/v20180313.md)
-* [Python教學](Learning-Python 1/00-0.md)
+* [Python教學](Learning-Python 1/00.md)
   * [0 Python初探](Learning-Python 1/00-0.md)
     * [0.1 Python學習資源](Learning-Python 1/00-1.md)
     * [0.2 Python IDE 介紹](Learning-Python 1/00-2.md)

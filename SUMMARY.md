@@ -44,11 +44,11 @@
   * [1 變數與輸出入](Learning-Python-1/01.md)
   * [2 運算式、判斷式](Learning-Python-1/02.md)
   * [3 迴圈](Learning-Python-1/03.md)
-  * [4 Python初探](Learning-Python-1/04.md)
-  * [5 Python初探](Learning-Python-1/05.md)
-  * [6 Python初探](Learning-Python-1/06.md)
-  * [7 Python初探](Learning-Python-1/07.md)
-  * [8 Python初探](Learning-Python-1/08.md)
-  * [9 Python初探](Learning-Python-1/09.md)
+  * [4 進階控制流程](Learning-Python-1/04.md)
+  * [5 函式](Learning-Python-1/05.md)
+  * [6 串列操作](Learning-Python-1/06.md)
+  * [7 數組、字典、集合](Learning-Python-1/07.md)
+  * [8 字串處理](Learning-Python-1/08.md)
+  * [9 檔案處理](Learning-Python-1/09.md)
 
 

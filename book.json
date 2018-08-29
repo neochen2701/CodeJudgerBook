@@ -6,7 +6,8 @@
         "disqus",
         "emphasize@^1.1.0",
         "sitemap-general@^0.1.1",
-        "expandable-chapters"
+        "expandable-chapters",
+        "mermaid"
     ],
     "pluginsConfig": {
         "disqus": {

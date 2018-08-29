@@ -26,7 +26,7 @@ graph LR
 
 即可顯示：
 ```mermaid
-graph LR
+graph LR;
       A[第一步] --> B[第二步];
       B --> C[第三步];
       C --> D[第四步];

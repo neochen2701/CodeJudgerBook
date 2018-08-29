@@ -7,7 +7,7 @@
         "emphasize@^1.1.0",
         "sitemap-general@^0.1.1",
         "expandable-chapters",
-        "mermaid-gb3""
+        "mermaid-gb3"
     ],
     "pluginsConfig": {
         "disqus": {

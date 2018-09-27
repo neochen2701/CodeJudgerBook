@@ -3,6 +3,8 @@
 * [Code Judger平台介紹](README.md)
 * [1 Code Judger特色](part1/chapter1.md)
   * [1.1 TQC+認證題庫](part1/features-1-1.md)
+    * [1.1.1 TQC+ 程式語言 認證技能規範](part1/features-1-1-1.md)
+    * [1.1.2 TQC+ 網頁資料擷取與分析 認證技能規範](part1/features-1-1-2.md)
   * [1.2 答題方式與技巧](part1/features-1-2.md)
 * [2 【教師】主控台](part2/chapter2.md)
   * [2.1 題目管理](part2/Console-2-1.md)

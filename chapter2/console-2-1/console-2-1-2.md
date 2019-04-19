@@ -4,5 +4,4 @@
 
 操作方式與［建立新立題目］相同。
 
-![](../../.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-01-ti-mu-guan-li-01-jian-li-xin-ti-mu-06png.png)
-
+![題目管理](../../.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-01-ti-mu-guan-li-01-jian-li-xin-ti-mu-06png.png)

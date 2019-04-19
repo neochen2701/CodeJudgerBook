@@ -7,5 +7,4 @@
 * [2.3 試卷管理](chapter2/console-2-3.md)
 * [2.4 課程管理](chapter2/console-2-4.md)
 
-![](.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-00-xia-la-xuan-dan.png)
-
+![主控台](.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-00-xia-la-xuan-dan.png)

@@ -3,9 +3,9 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">類 別</th>
-      <th style="text-align:left">類 別 名 稱</th>
-      <th style="text-align:left">技 能 內 容</th>
+      <th style="text-align:center">類 別</th>
+      <th style="text-align:center">類 別 名 稱</th>
+      <th style="text-align:center">技 能 內 容</th>
     </tr>
   </thead>
   <tbody>

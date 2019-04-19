@@ -5,7 +5,4 @@
 * 透過［匯入程式碼］按鈕，上傳電腦中的程式碼檔案
 * 直接在此區域鍵入程式碼
 
-![](../../.gitbook/assets/cjmds01myclass-02-exercises-04.png)
-
-## 答題 示範影片
-
+![作答方式](../../.gitbook/assets/cjmds01myclass-02-exercises-04.png)

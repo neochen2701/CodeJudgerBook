@@ -11,17 +11,16 @@
 
 ## 學員解題數
 
-![](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-01-xue-yuan-jie-ti-shu.png)
+![解題數](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-01-xue-yuan-jie-ti-shu.png)
 
 ## 班級錯誤統計
 
-![](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-02-ban-ji-cuo-wu-tong-ji.png)
+![班級錯誤統計](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-02-ban-ji-cuo-wu-tong-ji.png)
 
 ## 學員練習記錄
 
-![](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-03-xue-yuan-lian-xi-ji-lu.png)
+![學員練習記錄](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-03-xue-yuan-lian-xi-ji-lu.png)
 
 ## 學員練習正確率
 
-![](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-04-xue-yuan-lian-xi-zheng-que-shuai.png)
-
+![學員練習正確率](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-04-xue-yuan-lian-xi-zheng-que-shuai.png)

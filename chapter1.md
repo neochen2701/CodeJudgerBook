@@ -46,11 +46,6 @@
   </tbody>
 </table>
 
+當您具有[Code Judger](http://www.codejudger.com)帳號時，請點選網頁右上角的［登入］按鈕![首頁](.gitbook/assets/cjmd01-01_cj.png)
 
-
-
-
-當您具有[Code Judger](http://www.codejudger.com)帳號時，請點選網頁右上角的［登入］按鈕![](.gitbook/assets/cjmd01-01_cj.png)
-
-請輸入您的Email及密碼，Code Judger會自動判斷您的帳號是屬於教師或學生。![](.gitbook/assets/cjmd01-02_login.png)
-
+請輸入您的Email及密碼，Code Judger會自動判斷您的帳號是屬於教師或學生。![登入](.gitbook/assets/cjmd01-02_login.png)

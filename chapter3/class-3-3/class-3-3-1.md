@@ -8,13 +8,13 @@
 
 ### 新增練習題組 示範影片
 
-| 項目 | 說明 |
-| :--- | :--- |
+| 項目     | 說明                                                                      |
+| :------- | :------------------------------------------------------------------------ |
 | 練習名稱 | 必填 請建立易於理解辨識的名稱，方便後續的管理，以及學生在選擇練習時的辨識 |
-| 練習敍述 | 詳細的描述此題目的內容及用途 |
-| 使用題組 | 選擇在教師主控台，所建立的題組 |
+| 練習敍述 | 詳細的描述此題目的內容及用途                                              |
+| 使用題組 | 選擇在教師主控台，所建立的題組                                            |
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-01-xin-zeng-lian-xi-ti-zu.png)
+![新增](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-01-xin-zeng-lian-xi-ti-zu.png)
 
 ## 編輯練習題組
 
@@ -24,5 +24,4 @@
 
 例：如發現使用的題組，學生學習狀況不佳，可再將使用的題組變更為較容易的題組。
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-01-bian-ji-lian-xi-ti-zu.png)
-
+![編輯](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-01-bian-ji-lian-xi-ti-zu.png)

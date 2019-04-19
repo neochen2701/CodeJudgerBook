@@ -6,25 +6,25 @@
 * 考試進行中：正在進行中的考試。
 * 考試已結束：已經結束的考試。
 
-![](../.gitbook/assets/cjmds01myclass-02-exam-01.png)
+![考試](../.gitbook/assets/cjmds01myclass-02-exam-01.png)
 
 ## 準備中
 
 代表考試尚未開始． 點選［開始測驗］鈕會出現以下頁面，告知考試的相關資訊。
 
-![](../.gitbook/assets/cjmds01myclass-02-exam-02.png)
+![準備中](../.gitbook/assets/cjmds01myclass-02-exam-02.png)
 
 ## 考試進行中
 
 代表考試已開始。 點選［開始測驗］鈕進行考試
 
-![](../.gitbook/assets/cjmds01myclass-02-exam-03.png)
+![考試進行中](../.gitbook/assets/cjmds01myclass-02-exam-03.png)
 
 ### 考試介面
 
 進入考試後，會出現本次考試的所有題目，可任意選擇題目作答。 點選［檢視題目］即可進入該題目作答。 在畫面的右下角，會顯示考試的剩餘時間。
 
-![](../.gitbook/assets/cjmds01myclass-02-exam-04.png)
+![考試介面](../.gitbook/assets/cjmds01myclass-02-exam-04.png)
 
 ### 考試答題
 
@@ -33,11 +33,10 @@
 * 透過［匯入程式碼］按鈕，上傳電腦中的程式碼檔案
 * 直接在此區域鍵入程式碼
 
-![](../.gitbook/assets/cjmds01myclass-02-exam-05.png)
+![考試答題](../.gitbook/assets/cjmds01myclass-02-exam-05.png)
 
 ## 考試已結束
 
 代表已經結束的考試。 無法再進入考試作答，僅能查看成績。
 
-![](../.gitbook/assets/cjmds01myclass-03-reportcard-01.png)
-
+![考試已結束](../.gitbook/assets/cjmds01myclass-03-reportcard-01.png)

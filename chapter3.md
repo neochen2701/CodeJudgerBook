@@ -10,7 +10,7 @@
 
 登入Code Judger後，會進入「我的課程」頁面，請選擇要進入的課程。
 
-![](../.gitbook/assets/cjmd03-ke-cheng-00-ke-cheng-shou-ye.png)
+![我的課程](.gitbook/assets/cjmd03-ke-cheng-00-ke-cheng-shou-ye.png)
 
 ## 功能
 
@@ -21,5 +21,4 @@
 * 考試總管：課程的考試。
 * 統計資訊：課程的考試。
 
-![](../.gitbook/assets/cjmd03-ke-cheng-01-ke-cheng-zi-xun.png)
-
+![功能](.gitbook/assets/cjmd03-ke-cheng-01-ke-cheng-zi-xun.png)

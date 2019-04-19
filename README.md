@@ -12,7 +12,10 @@
 
 ## Code Judger培養能力
 
-透過Code Judger即練即評的設計，以及[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)特別設計的題型，讓學習者以文字模式程式語言解題的過中，培養「抽象的邏輯思考與數學概念」。學成後，可獲得： 1. 【程式力】培養學習者具備程式設計的認知以及解決問題的能力。 2. 【實作力】學習者可實際演練操作程式設計的編輯與執行環境，熟悉程式設計的開發流程，建立實作的能力。 3. 【證照力】具備 [TQC+程式語言Python3 認證](http://www.tqcplus.org.tw/content_brochure_PPY.asp)之能力。
+透過Code Judger即練即評的設計，以及[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)特別設計的題型，讓學習者以文字模式程式語言解題的過中，培養「抽象的邏輯思考與數學概念」。學成後，可獲得： 
+1. 【程式力】培養學習者具備程式設計的認知以及解決問題的能力。 
+2. 【實作力】學習者可實際演練操作程式設計的編輯與執行環境，熟悉程式設計的開發流程，建立實作的能力。 
+3. 【證照力】具備 [TQC+程式語言Python3 認證](http://www.tqcplus.org.tw/content_brochure_PPY.asp)之能力。
 
 ## Code Judger台灣總代理-[財團法人電腦技能基金會](https://www.csf.org.tw/main/index.asp)
 
@@ -22,7 +25,6 @@
 
 ### 聯絡窗口：何宥寬 先生
 
-* 電話：\(02\)2577-8806 \*735
+* 電話：(02)2577-8806 分機735
 * 手機：0927168751
-* 客服EMAIL：[code\_judger@mail.csf.org.tw](mailto:code_judger@mail.csf.org.tw)
-
+* 客服EMAIL：[code_judger@mail.csf.org.tw](mailto:code_judger@mail.csf.org.tw)

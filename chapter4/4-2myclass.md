@@ -6,7 +6,7 @@
 
 點選［開始練習］按鈕，即可進行該題組。
 
-![](../../.gitbook/assets/cjmds01myclass-02-exercises-01.png)
+![](../.gitbook/assets/cjmds01myclass-02-exercises-01.png)
 
 ## 題組
 
@@ -19,7 +19,7 @@
 
 > 題組內的題目數量，會依教師的課程設計而有所不同。 TQC+的題目名稱格式為\[TQC+\]\[程式語言名稱\]\[題號\]\[名稱\]組合成。 例：TQC+ Python 102. 浮點數格式化輸出
 
-![](../../.gitbook/assets/cjmds01myclass-02-exercises-02.png)
+![](../.gitbook/assets/cjmds01myclass-02-exercises-02.png)
 
 ## 開始答題
 
@@ -29,18 +29,18 @@
 * 待編修檔下載區：下載TQC+題目的待編修。
 * 作答區：可鍵入程式碼答題，或者以［匯入程式碼］按鈕，匯入程式碼。
 
-| 題目說明區 | 說明 |
-| :--- | :--- |
-| 1.題目說明 | 題目檔名及要求概述 |
-| 2.設計說明 | 詳細的程式要求說明 |
+| 題目說明區 | 說明                       |
+| :--------- | :------------------------- |
+| 1.題目說明 | 題目檔名及要求概述         |
+| 2.設計說明 | 詳細的程式要求說明         |
 | 3.輸入輸出 | 題目的輸入及輸出說明及範例 |
-| 4.評分項目 | 此題的配分 |
+| 4.評分項目 | 此題的配分                 |
 
-![](../../.gitbook/assets/cjmds01myclass-02-exercises-03.png)
+![](../.gitbook/assets/cjmds01myclass-02-exercises-03.png)
 
 ## 答題記錄
 
 點選題目的［答題記錄］按鈕後，即會進入該題目的答題記錄頁面。 此會記錄您在此題每一次答題的時間及程式碼。
 
-![](../../.gitbook/assets/test.gif)
+![](../.gitbook/assets/test.gif)
 

@@ -1,24 +1,18 @@
-# 3.4.2 開始考試
+# 3.3.2 練習統計
 
-當新增考試後，可在考試總管的檢視中，看到剛建立的考試，並且它會被標示為［準備中］。
+在練習題組中，點選一練習題組的［練習統計］按鈕，即可進入此練習的統計頁面。
 
-考試會在設定的開始時間自動啟動。
+［練習統計］是統計題組中各題學生的練習狀況。
 
-教師也可以透過［開啟考試計時器］提前開始考試。
+![](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-02-lian-xi-tong-ji-00.png)
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-02-xian-shi-suo-you-kao-shi-01.png)
+點選［檢視練習統計］按鈕，即可看到該題的**練習完成率**，以及**錯誤分布圖**。
 
-正在進行中的考試會被標示為［考試進行中］。
+練習完成率
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-02-xian-shi-suo-you-kao-shi-02.png)
+![](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-02-lian-xi-tong-ji-01-jian-shi-dan-ti-lian-xi-tong-ji-01-lian-xi-wa.png)
 
-## 考試計時器
+錯誤分布圖
 
-具備以下功能：
-
-* 啟動/停止考試
-* 在考試當下**即時暫停功能**
-* 在考試當下**即時延長時間**。
-
-### 考試操作 示範影片
+![](../../.gitbook/assets/cjmd03-ke-cheng-02-lian-xi-ti-zu-02-lian-xi-tong-ji-01-jian-shi-dan-ti-lian-xi-tong-ji-01-cuo-wu-fen.png)
 

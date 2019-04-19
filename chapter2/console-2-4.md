@@ -7,4 +7,3 @@
 透過［變更課程］按鈕，可編輯課程名稱及課程描述。
 
 ![](../.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-04-ke-cheng-guan-li-01-bian-ji-ke-cheng.png)
-

@@ -4,7 +4,4 @@
 
 並可以封銷特定成員。
 
->
-
-![](../.gitbook/assets/cjmd03-ke-cheng-01-ke-cheng-zi-xun.png)
-
+![課程資訊](../.gitbook/assets/cjmd03-ke-cheng-01-ke-cheng-zi-xun.png)

@@ -8,4 +8,4 @@
 
 將陸續增加其它TQC+認證題庫，如程式語言C, 物件導向程式設計Java等。
 
-![TQC+ LOGO](https://i.imgur.com/aC9qKbf.png)
+![TQC+ LOGO](../.gitbook/assets/tqcp.png)

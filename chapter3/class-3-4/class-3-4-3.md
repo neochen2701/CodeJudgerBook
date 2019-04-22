@@ -6,5 +6,4 @@
 * 排行表：分數排行表
 * 及格比率：及格與不及格的人數比率
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-04-kao-shi-cheng-ji-dan-01.png)
-
+![考試成績單](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-04-kao-shi-cheng-ji-dan-01.png)

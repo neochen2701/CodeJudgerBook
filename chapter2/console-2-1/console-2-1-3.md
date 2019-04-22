@@ -27,7 +27,7 @@ graph LR
 ```
 
 即可顯示：
-![0](https://i.imgur.com/DYoePnq.png)
+![0](../../.gitbook/assets/gitbook-Mermaid-0.png)
 
 ### 1.流程圖顯示方向
 
@@ -44,7 +44,7 @@ graph LR
 
 即可顯示：
 
-![1](https://i.imgur.com/tldqlSU.png)
+![1](../../.gitbook/assets/gitbook-Mermaid-1.png)
 
 ### 2.流程圖圖形
 
@@ -61,7 +61,7 @@ graph TD
 
 即可顯示：
 
-![2](https://i.imgur.com/3w21Ulu.png)
+![2](../../.gitbook/assets/gitbook-Mermaid-2.png)
 
 ### 3.路徑及箭號
 
@@ -80,7 +80,7 @@ graph TD
 
 即可顯示：
 
-![3](https://i.imgur.com/wUSRi3Q.png)
+![3](../../.gitbook/assets/gitbook-Mermaid-3.png)
 
 ### 4.路徑標籤
 
@@ -97,7 +97,7 @@ graph TD
 
 即可顯示：
 
-![4](https://i.imgur.com/aH1v9yW.png)
+![4](../../.gitbook/assets/gitbook-Mermaid-4.png)
 
 ## 三、多選項流程
 
@@ -115,7 +115,7 @@ graph TD
 
 即可顯示：
 
-![5](https://i.imgur.com/dDXjYKJ.png)
+![5](../../.gitbook/assets/gitbook-Mermaid-5.png)
 
 
 選項亦可匯流至指定節點
@@ -136,7 +136,7 @@ graph TD
 
 即可顯示：
 
-![6](https://i.imgur.com/DkqdTZC.png)
+![6](../../.gitbook/assets/gitbook-Mermaid-6.png)
 
 ## 四、完整範例示範
 
@@ -153,4 +153,4 @@ graph TD
 
 即可顯示：
 
-![7](https://i.imgur.com/6FFNcnI.png)
+![7](../../.gitbook/assets/gitbook-Mermaid-7.png)

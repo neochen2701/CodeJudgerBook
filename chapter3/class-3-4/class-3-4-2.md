@@ -6,11 +6,11 @@
 
 教師也可以透過［開啟考試計時器］提前開始考試。
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-02-xian-shi-suo-you-kao-shi-01.png)
+![顯示所有考試](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-02-xian-shi-suo-you-kao-shi-01.png)
 
 正在進行中的考試會被標示為［考試進行中］。
 
-![](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-02-xian-shi-suo-you-kao-shi-02.png)
+![考試進行中](../../.gitbook/assets/cjmd03-ke-cheng-03-kao-shi-zong-guan-02-xian-shi-suo-you-kao-shi-02.png)
 
 ## 考試計時器
 
@@ -19,6 +19,3 @@
 * 啟動/停止考試
 * 在考試當下**即時暫停功能**
 * 在考試當下**即時延長時間**。
-
-### 考試操作 示範影片
-

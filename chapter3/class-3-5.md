@@ -11,7 +11,7 @@
 
 ## 學員解題數
 
-![解題數](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-01-xue-yuan-jie-ti-shu.png)
+![學員解題數](../.gitbook/assets/cjmd03-ke-cheng-04-tong-ji-zi-xun-01-xue-yuan-jie-ti-shu.png)
 
 ## 班級錯誤統計
 

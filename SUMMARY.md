@@ -42,7 +42,7 @@
   * [20180402](chapter6/v20180402.md)
   * [20180313](chapter6/v20180313.md)
 * [Python教學](00/README.md)
-  * [0 Python初探](00/00-0/README.md)
+  * [0 Python初探](00/.md)
     * [0.1 Python學習資源](00/00-0/00-1.md)
     * [0.2 Python IDE 介紹](00/00-0/00-2.md)
     * [0.3 Spyder 小試身手](00/00-0/00-3.md)

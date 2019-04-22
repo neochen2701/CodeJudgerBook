@@ -12,16 +12,17 @@
 
 ## Code Judger培養能力
 
-透過Code Judger即練即評的設計，以及[TQC+程式語言Python3 認證題庫](http://www.tqcplus.org.tw/content_brochure_PPY.asp)特別設計的題型，讓學習者以文字模式程式語言解題的過中，培養「抽象的邏輯思考與數學概念」。學成後，可獲得： 
-1. 【程式力】培養學習者具備程式設計的認知以及解決問題的能力。 
-2. 【實作力】學習者可實際演練操作程式設計的編輯與執行環境，熟悉程式設計的開發流程，建立實作的能力。 
-3. 【證照力】具備 [TQC+程式語言Python3 認證](http://www.tqcplus.org.tw/content_brochure_PPY.asp)之能力。
+透過Code Judger即練即評的設計，以及[TQC+認證題庫](https://www.tqcplus.org.tw/Certificate.aspx)特別設計的題型，讓學習者以文字模式程式語言解題的過中，培養「抽象的邏輯思考與數學概念」。學成後，可獲得：
 
-## Code Judger台灣總代理-[財團法人電腦技能基金會](https://www.csf.org.tw/main/index.asp)
+1. 【程式力】培養學習者具備程式設計的認知以及解決問題的能力。
+2. 【實作力】學習者可實際演練操作程式設計的編輯與執行環境，熟悉程式設計的開發流程，建立實作的能力。
+3. 【證照力】具備 [TQC+認證](https://www.tqcplus.org.tw/Certificate.aspx)之能力。
+
+## Code Judger台灣總代理 - 財團法人電腦技能基金會
 
 [財團法人電腦技能基金會](https://www.csf.org.tw/main/index.asp) 發展各項能力認證，扮演銜接學校學習及職場實務應用的重要角色，同時用以協助政府與企業電子化創新應用，推廣及培育社會大眾資訊、網路及無線通訊應用能力，提升國家整體競爭力為宗旨。 業務推動以「務實致用」為核心理念，透過動手實作的技能教學與訓練，培養年輕人腳踏實地的人生觀及與時俱進的競爭力，邁向充實有活力的人生。
 
-![CSF LOGO](.gitbook/assets/csf.png)
+![CSF](.gitbook/assets/csf.png)
 
 ### 聯絡窗口：何宥寬 先生
 

@@ -40,7 +40,7 @@
 
 當題目設計完成，按下［建立新題目］鈕後，系統會告知新題目已建立，並可進行檢試。
 
-![測試](../../.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-01-ti-mu-guan-li-01-jian-li-xin-ti-mu-03.png)
+![新題目已建立](../../.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-01-ti-mu-guan-li-01-jian-li-xin-ti-mu-03.png)
 
 檢視的畫面如下，命題者可立即進行題目檢測
 

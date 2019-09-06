@@ -1,3 +1,10 @@
+<!--
+ * @Description: In User Settings Edit
+ * @Author: neo
+ * @Date: 2019-04-19 09:44:54
+ * @LastEditTime: 2019-09-06 18:05:43
+ * @LastEditors: Please set LastEditors
+ -->
 # Table of contents
 
 * [Code Judger平台介紹](README.md)
@@ -30,9 +37,9 @@
   * [3.4 統計資訊](chapter3/class-3-5.md)
 * [4 【學生】我的課程](chapter4.md)
   * [4.1 課程資訊](chapter4/4-1myclass.md)
-  * [4.2 練習題目](chapter4/4-2myclass/README.md)
+  * [4.2 練習題目](chapter4/4-2myclass.md)
     * [4.2.1 作答方式](chapter4/4-2myclass/4-2-1myclass.md)
-  * [4.3 考　　試](chapter4/4-3myclass/README.md)
+  * [4.3 考　　試](chapter4/4-3myclass.md)
     * [4.3.1 考試成績](chapter4/4-3myclass/4-3-1myclass.md)
 * [5 購買方案](chapter5.md)
 * [6 版本更新記錄](chapter6.md)

@@ -2,7 +2,7 @@
  * @Description: 修改features-1-2.md的內容
  * @Author: neo chen
  * @Date: 2019-04-19 09:44:54
- * @LastEditTime: 2019-10-08 17:58:20
+ * @LastEditTime: 2019-10-30 11:53:00
  * @LastEditors: Neo Chen
  -->
 
@@ -44,6 +44,7 @@
     - [4.3.1 考試成績](chapter4/4-3myclass/4-3-1myclass.md)
 - [5 購買方案](chapter5.md)
 - [6 版本更新記錄](chapter6.md)
+  - [20191030](chapter6/v20191030.md)
   - [20190320](chapter6/v20190320.md)
   - [20181031](chapter6/v20181031.md)
   - [20180426](chapter6/v20180426.md)

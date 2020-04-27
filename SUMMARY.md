@@ -44,6 +44,7 @@
     - [4.3.1 考試成績](chapter4/4-3myclass/4-3-1myclass.md)
 - [5 購買方案](chapter5.md)
 - [6 版本更新記錄](chapter6.md)
+  - [20200427](chapter6/v20200427.md)
   - [20191030](chapter6/v20191030.md)
   - [20190320](chapter6/v20190320.md)
   - [20181031](chapter6/v20181031.md)

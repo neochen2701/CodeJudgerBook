@@ -14,11 +14,13 @@
       <p></p>
       內建題庫包含：
         <ol>
+          <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=oI628ByfbDY=">TQC+ 程式語言C</a></li>
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=y/zEfkGeQhM=">TQC+ 程式語言Python3</a></li>
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=n3V3YTVlWkQ=">TQC+ 網頁資料擷取與分析Python3</a></li>
-          <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=n3V3YTVlWkQ=">TQC+ 網頁資料擷取與分析R</a></li>
+          <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=j%201iCLklsBo=">TQC+ 網頁資料擷取與分析R</a></li>
+          <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=oI628ByfbDY=">TQC+ 物件導向程式語言C#</a></li>
         </ol>
-        <p>將陸續增加其它認證題庫，如程式語言C、物件導向程式設計Java等。</p>
+        <p>將陸續增加其它認證題庫，如物件導向程式設計Java等。</p>
       </td>
     </tr>
     <tr>
@@ -37,7 +39,7 @@
     </tr>
     <tr>
       <td style="text-align:left">支援的程式語言</td>
-      <td style="text-align:left">目前為Python 3，將陸續增加其它語言，如C, Java等。</td>
+      <td style="text-align:left">包含：C, C++, C#, Java, R, Ruby, Python 3, Vb。</td>
     </tr>
     <tr>
       <td style="text-align:left">學習歷程</td>

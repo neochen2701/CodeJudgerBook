@@ -44,7 +44,7 @@ FORMAT: 1.0
 * user_account : peter@tqc.mail.edu.tw
 * user_type: TEACHER
 * user_name: 王小明
-* access_token：sha1(xxx_tqcxxxx_1234567890)
+* access_token：sha1(xxxxxxxx_1234567890)
 * time_stamp: 1234567890
 * institution: 13
 
@@ -53,7 +53,7 @@ FORMAT: 1.0
 * URL：
   https://123.codejudger.com/api/v1/auth/login
 * BODY：
-  user_account=peter@tqc.mail.edu.tw&user_type=TEACHER&user_name=王小明&access_token=sha1(xxx_tqcxxxx_1234567890)&time_stamp=1234567890&institution=13
+  user_account=peter@tqc.mail.edu.tw&user_type=TEACHER&user_name=王小明&access_token=sha1(xxxxxxxx_1234567890)&time_stamp=1234567890&institution=13
 
 #### 回傳結果
 
@@ -92,7 +92,7 @@ FORMAT: 1.0
 
 * user_account : peter@tqc.mail.edu.tw
 * user_name: 王小明
-* access_token：sha1(xxx_tqcxxxx_1234567890)
+* access_token：sha1(xxxxxxxx_1234567890)
 * time_stamp: 1234567890
 * institution: 13
 * course_number：1091_B10942A
@@ -107,7 +107,7 @@ FORMAT: 1.0
 * URL：
   https://123.codejudger.com/api/v2/course/import
 * BODY：
-  user_account=peter@tqc.mail.edu.tw&user_name=王小明&access_token=sha1(xxx_tqcxxxx_1234567890)&time_stamp=1234567890&institution=13&course_number=1091_B10942A&course_name=資管大一程式語言(Python)&student_accounts[0]=B97901022@tqc.mail.edu.tw&student_accounts[1]=B97901023@tqc.mail.edu.tw&student_names[0]=張曉明&student_names[1]=王陽明
+  user_account=peter@tqc.mail.edu.tw&user_name=王小明&access_token=sha1(xxxxxxxx_1234567890)&time_stamp=1234567890&institution=13&course_number=1091_B10942A&course_name=資管大一程式語言(Python)&student_accounts[0]=B97901022@tqc.mail.edu.tw&student_accounts[1]=B97901023@tqc.mail.edu.tw&student_names[0]=張曉明&student_names[1]=王陽明
 
 #### 回傳結果
 
@@ -153,7 +153,7 @@ FORMAT: 1.0
 代號為peter的王小明老師要取得課程代碼為1091_B10942A的小考資料
 
 * user_account : peter@tqc.mail.edu.tw
-* access_token：sha1(xxx_tqcxxxx_1234567890)
+* access_token：sha1(xxxxxxxx_1234567890)
 * time_stamp: 1234567890
 * institution: 13
 * course_number：1091_B10942A
@@ -163,7 +163,7 @@ FORMAT: 1.0
 * URL：
   https://123.codejudger.com/api/v2/course/import
 * BODY：
-  user_account=peter@tqc.mail.edu.tw&access_token=sha1(xxx_tqcxxxx_1234567890)&time_stamp=1234567890&institution=13&course_number=1091_B10942A
+  user_account=peter@tqc.mail.edu.tw&access_token=sha1(xxxxxxxx_1234567890)&time_stamp=1234567890&institution=13&course_number=1091_B10942A
 
 #### 回傳結果
 

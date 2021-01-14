@@ -41,11 +41,11 @@ FORMAT: 1.0
 
 代號為peter的王小明老師要登入
 
-* user_account : peter@chu.edu.tw
+* user_account : peter@tqc.mail.edu.tw
 * user_type: TEACHER
 * user_name: 王小明
-* access_token：shal(chu_tqcpython_1435224116)
-* time_stamp: 1435224116
+* access_token：sha1(xxx_tqcxxxx_1234567890)
+* time_stamp: 1234567890
 * institution: 13
 
 #### POST
@@ -53,7 +53,7 @@ FORMAT: 1.0
 * URL：
   https://123.codejudger.com/api/v1/auth/login
 * BODY：
-  user_account=peter@chu.edu.tw&user_type=TEACHER&user_name=王小明&access_token=shal(chu_tqcpython_1435224116)&time_stamp=1435224116&institution=13
+  user_account=peter@tqc.mail.edu.tw&user_type=TEACHER&user_name=王小明&access_token=sha1(xxx_tqcxxxx_1234567890)&time_stamp=1234567890&institution=13
 
 #### 回傳結果
 
@@ -90,15 +90,15 @@ FORMAT: 1.0
 
 代號為peter的王小明老師要加入課號為1091_B10942A的資管大一程式語言(Python)課程，下面要新增學號為B97901022的張曉明同學和學號為B97901023的王陽明同學
 
-* user_account : peter@chu.edu.tw
+* user_account : peter@tqc.mail.edu.tw
 * user_name: 王小明
-* access_token：shal(chu_tqcpython_1435224116)
-* time_stamp: 1435224116
+* access_token：sha1(xxx_tqcxxxx_1234567890)
+* time_stamp: 1234567890
 * institution: 13
 * course_number：1091_B10942A
 * course_name：資管大一程式語言(Python)
-* student_accounts[0] = B97901022@chu.edu.tw
-* student_accounts[1] = B97901023@chu.edu.tw
+* student_accounts[0] = B97901022@tqc.mail.edu.tw
+* student_accounts[1] = B97901023@tqc.mail.edu.tw
 * student_names[0] = 張曉明
 * student_names[1] = 王陽明
 
@@ -107,7 +107,7 @@ FORMAT: 1.0
 * URL：
   https://123.codejudger.com/api/v2/course/import
 * BODY：
-  user_account=peter@chu.edu.tw&user_name=王小明&access_token=shal(chu_tqcpython_1435224116)&time_stamp=1435224116&institution=13&course_number=1091_B10942A&course_name=資管大一程式語言(Python)&student_accounts[0]=B97901022@chu.edu.tw&student_accounts[1]=B97901023@chu.edu.tw&student_names[0]=張曉明&student_names[1]=王陽明
+  user_account=peter@tqc.mail.edu.tw&user_name=王小明&access_token=sha1(xxx_tqcxxxx_1234567890)&time_stamp=1234567890&institution=13&course_number=1091_B10942A&course_name=資管大一程式語言(Python)&student_accounts[0]=B97901022@tqc.mail.edu.tw&student_accounts[1]=B97901023@tqc.mail.edu.tw&student_names[0]=張曉明&student_names[1]=王陽明
 
 #### 回傳結果
 
@@ -152,9 +152,9 @@ FORMAT: 1.0
 
 代號為peter的王小明老師要取得課程代碼為1091_B10942A的小考資料
 
-* user_account : peter@chu.edu.tw
-* access_token：shal(chu_tqcpython_1435224116)
-* time_stamp: 1435224116
+* user_account : peter@tqc.mail.edu.tw
+* access_token：sha1(xxx_tqcxxxx_1234567890)
+* time_stamp: 1234567890
 * institution: 13
 * course_number：1091_B10942A
 
@@ -163,7 +163,7 @@ FORMAT: 1.0
 * URL：
   https://123.codejudger.com/api/v2/course/import
 * BODY：
-  user_account=peter@chu.edu.tw&access_token=shal(chu_tqcpython_1435224116)&time_stamp=1435224116&institution=13&course_number=1091_B10942A
+  user_account=peter@tqc.mail.edu.tw&access_token=sha1(xxx_tqcxxxx_1234567890)&time_stamp=1234567890&institution=13&course_number=1091_B10942A
 
 #### 回傳結果
 
@@ -177,11 +177,11 @@ FORMAT: 1.0
         "exam_title" : "第1次小考",
         "scores" : [
             {
-              "account" : "B97901022@chu.edu.tw",
+              "account" : "B97901022@tqc.mail.edu.tw",
               "points" : "80"
             },
             {
-              "account" : "B97901023@chu.edu.tw",
+              "account" : "B97901023@tqc.mail.edu.tw",
               "points" : "60"
             }
           ]
@@ -190,11 +190,11 @@ FORMAT: 1.0
         "exam_title" : "第2次小考",
         "scores" : [
             {
-              "account" : "B97901022@chu.edu.tw",
+              "account" : "B97901022@tqc.mail.edu.tw",
               "points" : "100"
             },
             {
-              "account" : "B97901023@chu.edu.tw",
+              "account" : "B97901023@tqc.mail.edu.tw",
               "points" : "70"
             }
           ]

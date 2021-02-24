@@ -11,4 +11,3 @@
 | 新增題目至題目 | ● 分為2左右區塊，將右方區域的題目，拖拉至左方區塊即可<br>  ● 系統會即時計算此題組的難易度及總題數<br> ● 題序可自由排列 |
 
 ![](../../.gitbook/assets/cjmd02-jiao-shi-zhu-kong-tai-02-ti-zu-guan-li-01-jian-li-xin-ti-zu-01.png)
-

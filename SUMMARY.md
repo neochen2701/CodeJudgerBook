@@ -20,7 +20,7 @@
   - [2.2 題組管理](chapter2/console-2-2.md)
     - [2.2.1 建立新題組](chapter2/console-2-2/console-2-2-1.md)
     - [2.1.2 編輯題組](chapter2/console-2-2/console-2-2-2.md)
-  - [2.3 試卷管理](chapter2/console-2-3.md)
+  - [2.3 考卷管理](chapter2/console-2-3.md)
   - [2.4 課程管理](chapter2/console-2-4.md)
 - [3 【教師】我的課程](chapter3.md)
   - [3.1 課程資訊](chapter3/class-3-1.md)

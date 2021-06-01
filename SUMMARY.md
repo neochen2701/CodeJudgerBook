@@ -54,7 +54,7 @@
   - [20180426](chapter07/v20180426.md)
   - [20180402](chapter07/v20180402.md)
   - [20180313](chapter07/v20180313.md)
-- [8 技術問題](chapter08.md)
+- [8 常見問答集](chapter08.md)
   - [建議使用的瀏覽器](chapter08/Browser.md)
   - [程式語言環境](chapter08/ProgrammingLanguageEnvironment.md)
   - [線上程式編輯器](chapter08/OnlineEditor.md)

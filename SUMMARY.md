@@ -43,6 +43,7 @@
 - [6 全校授權客制服務](chapter06.md)
   - [6.1 Code Judger與校務系統整合服務API](chapter06/API_doc.md)
 - [7 版本更新記錄](chapter07.md)
+  - [20210816](chapter07/v20210816.md)
   - [20210510](chapter07/v20210510.md)
   - [20210324](chapter07/v20210324.md)
   - [20210112](chapter07/v20210112.md)

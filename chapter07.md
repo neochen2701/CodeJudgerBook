@@ -1,6 +1,6 @@
 # 7 版本更新記錄
 
-- [20210816](chapter07/v20210816.md)
+- [20210816](https://neochen2701.gitbook.io/codejudger/chapter07/v20210816)
 - [20210510](chapter07/v20210510.md)
 - [20210324](chapter07/v20210324.md)
 - [20210112](chapter07/v20210112.md)
@@ -12,3 +12,4 @@
 - [20180426](chapter07/v20180426.md)
 - [20180402](chapter07/v20180402.md)
 - [20180313](chapter07/v20180313.md)
+

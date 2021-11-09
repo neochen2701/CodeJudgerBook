@@ -21,7 +21,7 @@
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=oI628ByfbDY=">TQC+ 物件導向程式語言C#</a></li>
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=tcFNhoVP6T8=">TQC+ 物件導向程式語言Java</a></li>
         </ol>
-        <p>將陸續增加其它認證題庫，如物件導向程式設計Java等。</p>
+        <p>將陸續增加其它認證題庫。</p>
       </td>
     </tr>
     <tr>

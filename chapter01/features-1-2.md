@@ -20,3 +20,8 @@
    ```text
    file = open("write.txt")
    ```
+
+## 答題注意事項-以Java程式語言答題
+
+1. 程式中的 class name **必須以 JP** 開頭命名。
+2. class的**左大括號必須與class name同一行**，不可換行。

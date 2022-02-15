@@ -1,14 +1,16 @@
 # Code Judger平台介紹
 
-[Code Judger](http://www.codejudger.com) 是由[財團法人電腦技能基金會](https://www.csf.org.tw/main/index.asp)和[Kyosei.ai](https://kyosei.ai/) 共生智能股份有限公司合作開發之自動化批改及教學管理系統。
+[Code Judger](http://www.codejudger.com) 是由[財團法人電腦技能基金會](https://www.csf.org.tw/main/index.asp)和[Kyosei.ai](https://kyosei.ai/) 共生智能股份有限公司合作開發之程式教學與測驗輔助工具。
 
-[Code Judger](http://www.codejudger.com) 平台可以讓學生們在解題中學習，獲得成就，整合題庫與課程概念，為學習程式的學員、解題挑戰者以及程式教師提供最佳化的課程與題目管理。
+* 提供各類型題庫，讓程式語言的學習者、解題挑戰者，在解題中學習程式設計並獲得成就。
+* 提供最佳化的課程管理功能與題目管理，無論是在實體的課堂或者遠距離教學，都能便利老師程式設計的教學。
 
 [影片介紹](https://youtu.be/63BM3OEPlQQ)
 
 ## Code Judger適用對象
 
-程式語言初學者
+* 程式語言的學習者
+* 程式語言的教學教師
 
 ## Code Judger培養能力
 

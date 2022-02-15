@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td style="text-align:left">支援的程式語言</td>
-      <td style="text-align:left">包含：C, C++, C#, Java, R, Ruby, Python 3, Vb。</td>
+      <td style="text-align:left">包含：C, C++, C#, Java, R, Python 3。</td>
     </tr>
     <tr>
       <td style="text-align:left">學習歷程</td>

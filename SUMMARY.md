@@ -1,11 +1,3 @@
-<!--
- * @Description: 修改features-1-2.md的內容
- * @Author: neo chen
- * @Date: 2019-04-19 09:44:54
- * @LastEditTime: 2019-10-30 11:53:00
- * @LastEditors: Neo Chen
- -->
-
 # Table of contents
 
 - [Code Judger 平台介紹](README.md)
@@ -43,6 +35,7 @@
 - [6 全校授權客制服務](chapter06.md)
   - [6.1 Code Judger與校務系統整合服務API](chapter06/API_doc.md)
 - [7 版本更新記錄](chapter07.md)
+  - [20220310](chapter07/v20220310.md)
   - [20210922](chapter07/v20210922.md)
   - [20210816](chapter07/v20210816.md)
   - [20210510](chapter07/v20210510.md)

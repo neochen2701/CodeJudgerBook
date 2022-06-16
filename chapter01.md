@@ -14,7 +14,7 @@
       <p></p>
       內建題庫包含：
         <ol>
-          <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=oI628ByfbDY=">TQC+ 程式語言C</a></li>
+          <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=1JY1T07S01o=">TQC+ 程式語言C</a></li>
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=y/zEfkGeQhM=">TQC+ 程式語言Python3</a></li>
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=n3V3YTVlWkQ=">TQC+ 網頁資料擷取與分析Python3</a></li>
           <li><a href="https://www.tqcplus.org.tw/CertificateDetail.aspx?CODE=j%201iCLklsBo=">TQC+ 網頁資料擷取與分析R</a></li>

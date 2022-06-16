@@ -39,15 +39,5 @@ Code Judger支援的程式語言的版本如下表所示：
 <td style="padding: 4px; width: 280px; height: 21px;">R 3.5.1</td>
 <td style="padding: 4px; width: 360px; height: 21px;">&nbsp;</td>
 </tr>
-<tr style="height: 21px;">
-<td style="padding: 4px; width: 100px; height: 21px;">Ruby</td>
-<td style="padding: 4px; width: 280px; height: 21px;">ruby 2.7.0</td>
-<td style="padding: 4px; width: 360px; height: 21px;">&nbsp;</td>
-</tr>
-<tr style="height: 43px;">
-<td style="padding: 4px; width: 100px; height: 43px;">VB.Net</td>
-<td style="padding: 4px; width: 280px; height: 43px;">VB.Net 16.0 with .NET 6 runtime</td>
-<td style="padding: 4px; width: 360px; height: 43px;"></td>
-</tr>
 </tbody>
 </table>
